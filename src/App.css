@@ -1,0 +1,14 @@
+body{
+    font-size: 15px;
+    background-color: hsl(0, 0%, 95%);
+    font-weight: bold;
+}
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    /* padding: auto; */
+    margin: 100px;
+}
